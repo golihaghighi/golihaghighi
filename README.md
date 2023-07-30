@@ -1,3 +1,4 @@
+<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width=100 src="https://avatars.githubusercontent.com/u/113325298?v=4">
 - 👋 Hi, I’m Afshin Haghighi
 <!---
 - 👀 I’m interested in ...
