@@ -10,7 +10,7 @@
 - 🌟 I'm passionate about creating software that improves people's lives.
 
 #### 📬 How to Reach Me
-- LinkedIn: [Afshin Goli Haghighi]([#](https://www.linkedin.com/in/afshin-goli-haghighi-06394233/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVFN6OLw8RDeAQeTDmWd5LA%3D%3D))
+- LinkedIn: [Afshin Goli Haghighi](https://www.linkedin.com/in/afshin-goli-haghighi-06394233/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVFN6OLw8RDeAQeTDmWd5LA%3D%3D)
 - Email: [golihaghighi at Gmail](mailto:golihaghighi@gmail.com)
 
 #### Technologies I Use
